@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("welcome");
+		
+		int x = 170;
+		
+		if (x > 160) {
+		    System.out.println("you can");
+		}
+		else if (x < 160) {
+		     System.out.println("you can not");
+		}
+		

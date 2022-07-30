@@ -1,0 +1,15 @@
++public class Main
+{
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+        String name ="osama";
+
+     int age =17;
+
+
+         System.out.println ("hi my name is " + name + "and I am " + age +"years old");
+    }
+}
+		
+		
+		
